@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](/user-attachments/assets/930d1218-a6cf-457c-99d6-65756c636cc8]
+
 <!--
 **w2h1/w2h1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
